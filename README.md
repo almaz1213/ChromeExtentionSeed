@@ -31,4 +31,7 @@ Those file should be customized to your need
 there will be a directory name dist/,using chrome to distribute your extention
 
 
+License
+-------
 
+MIT is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
