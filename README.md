@@ -1,6 +1,6 @@
 hydra
 ============
-a chrome extention seed build with angular and powerd by gulp
+:+1: a chrome extention seed build with angular and powerd by gulp
 
 ##How to start up
     git clone git@github.com:KevinOfNeu/hydra.git
