@@ -1,0 +1,9 @@
+{
+  "name": "hydra",
+  "description": "hydra is new version of flare",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0"
+  }
+}
