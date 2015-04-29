@@ -3,9 +3,9 @@ hydra
 :+1: a chrome extention seed build with angular and powerd by gulp
 
 ##How to start up
-    git clone git@github.com:KevinOfNeu/hydra.git
+    git@github.com:KevinOfNeu/ChromeExtentionSeed.git
 
-    cd hydra
+    cd ChromeExtentionSeed
 
     bower install
 

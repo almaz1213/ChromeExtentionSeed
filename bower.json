@@ -1,6 +1,6 @@
 {
-  "name": "hydra",
-  "description": "hydra",
+  "name": "ChromeExtentionSeed",
+  "description": "chrome extention seed with angular and gulp",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
