@@ -5,6 +5,8 @@ hydra
 ##How to start up
     git clone git@github.com:KevinOfNeu/hydra.git
 
+    cd hydra
+
     bower install
 
     npm install
